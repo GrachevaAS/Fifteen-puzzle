@@ -1,2 +1,2 @@
-# Fifteen_puzzle
-The program solves the "Fifteen puzzle". It is possible to use 2 methods: the optimal(but long) one or a fast, not always optimal one. The 2 methods are implemented in 2 different functions.
+# Пятнашки
+Программа решает головоломку "пятнашки" двумя способами: более быстрым, но не всегда оптимальным, и точным - за наименьшее число шагов. Они реализованы в соответствующих функциях.
